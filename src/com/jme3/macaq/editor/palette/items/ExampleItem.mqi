@@ -1,0 +1,6 @@
+id=id1
+displayName=Counter
+icon16=com/jme3/macaq/editor/palette/ms_icon.png
+icon32=com/jme3/macaq/editor/palette/ms_icon32.png
+comment=This is item 1
+class=com.jme3.macaq.logic.components.Counter
